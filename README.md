@@ -5,7 +5,7 @@ Fully Functional Amazon Clone
 ## Features:
 
 1. User Authentication
-   ![User Authentication](/Demo/UserAuthentication.png)
+   ![User Authentication](./Demo/UserAuthentication.png)
 2. Browse Products
    ![Browse Products/ Home Page](Demo/Home_Page.png)
 3. Add Product to the Cart
